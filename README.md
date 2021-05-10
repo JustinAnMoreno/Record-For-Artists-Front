@@ -45,7 +45,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 ## Getting Started 
--[Click](https://keeptrackofmytracking.herokuapp.com/) to launch app!
+-[Click](http://localhost:8080/) to launch app!
 
 ## Future Enhancements 
    -Bootstrap Implementation 
